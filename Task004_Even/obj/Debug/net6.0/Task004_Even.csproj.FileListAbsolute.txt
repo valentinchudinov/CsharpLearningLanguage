@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\bin\Debug\net6.0\Task004_Even.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\bin\Debug\net6.0\Task004_Even.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\bin\Debug\net6.0\Task004_Even.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\bin\Debug\net6.0\Task004_Even.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\bin\Debug\net6.0\Task004_Even.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\refint\Task004_Even.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\Task004_Even.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task004_Even\obj\Debug\net6.0\ref\Task004_Even.dll

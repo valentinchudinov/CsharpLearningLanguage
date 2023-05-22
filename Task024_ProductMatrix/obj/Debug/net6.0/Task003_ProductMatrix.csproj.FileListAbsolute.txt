@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\bin\Debug\net6.0\Task003_ProductMatrix.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\bin\Debug\net6.0\Task003_ProductMatrix.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\bin\Debug\net6.0\Task003_ProductMatrix.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\bin\Debug\net6.0\Task003_ProductMatrix.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\bin\Debug\net6.0\Task003_ProductMatrix.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\refint\Task003_ProductMatrix.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\Task003_ProductMatrix.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task003_ProductMatrix\obj\Debug\net6.0\ref\Task003_ProductMatrix.dll

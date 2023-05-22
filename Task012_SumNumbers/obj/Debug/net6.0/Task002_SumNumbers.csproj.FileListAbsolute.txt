@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\bin\Debug\net6.0\Task002_SumNumbers.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\bin\Debug\net6.0\Task002_SumNumbers.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\bin\Debug\net6.0\Task002_SumNumbers.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\bin\Debug\net6.0\Task002_SumNumbers.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\bin\Debug\net6.0\Task002_SumNumbers.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\refint\Task002_SumNumbers.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\Task002_SumNumbers.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Task002_SumNumbers\obj\Debug\net6.0\ref\Task002_SumNumbers.dll

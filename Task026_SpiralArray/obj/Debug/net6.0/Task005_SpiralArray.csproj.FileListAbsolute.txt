@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\bin\Debug\net6.0\Task005_SpiralArray.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\bin\Debug\net6.0\Task005_SpiralArray.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\bin\Debug\net6.0\Task005_SpiralArray.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\bin\Debug\net6.0\Task005_SpiralArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\bin\Debug\net6.0\Task005_SpiralArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\refint\Task005_SpiralArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\Task005_SpiralArray.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task005_SpiralArray\obj\Debug\net6.0\ref\Task005_SpiralArray.dll

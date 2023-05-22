@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\bin\Debug\net6.0\Task006_PascalTriangle.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\bin\Debug\net6.0\Task006_PascalTriangle.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\bin\Debug\net6.0\Task006_PascalTriangle.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\bin\Debug\net6.0\Task006_PascalTriangle.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\bin\Debug\net6.0\Task006_PascalTriangle.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\refint\Task006_PascalTriangle.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\Task006_PascalTriangle.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork008\Tasks\Task006_PascalTriangle\obj\Debug\net6.0\ref\Task006_PascalTriangle.dll

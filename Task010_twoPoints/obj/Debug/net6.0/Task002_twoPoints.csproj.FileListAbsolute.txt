@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\bin\Debug\net6.0\Task002_twoPoints.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\bin\Debug\net6.0\Task002_twoPoints.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\bin\Debug\net6.0\Task002_twoPoints.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\bin\Debug\net6.0\Task002_twoPoints.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\bin\Debug\net6.0\Task002_twoPoints.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\refint\Task002_twoPoints.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\Task002_twoPoints.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task002_twoPoints\obj\Debug\net6.0\ref\Task002_twoPoints.dll

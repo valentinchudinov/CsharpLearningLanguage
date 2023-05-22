@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\bin\Debug\net6.0\Task001_NumbersGreaterZero.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\bin\Debug\net6.0\Task001_NumbersGreaterZero.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\bin\Debug\net6.0\Task001_NumbersGreaterZero.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\bin\Debug\net6.0\Task001_NumbersGreaterZero.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\bin\Debug\net6.0\Task001_NumbersGreaterZero.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\refint\Task001_NumbersGreaterZero.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\Task001_NumbersGreaterZero.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task001_NumbersGreaterZero\obj\Debug\net6.0\ref\Task001_NumbersGreaterZero.dll

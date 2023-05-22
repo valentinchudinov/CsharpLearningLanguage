@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\bin\Debug\net6.0\Task002_IntersectionPoint.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\refint\Task002_IntersectionPoint.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\Task002_IntersectionPoint.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork006\Tasks\Task002_IntersectionPoint\obj\Debug\net6.0\ref\Task002_IntersectionPoint.dll

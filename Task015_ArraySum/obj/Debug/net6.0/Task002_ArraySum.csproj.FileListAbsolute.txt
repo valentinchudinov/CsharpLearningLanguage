@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\bin\Debug\net6.0\Task002_ArraySum.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\bin\Debug\net6.0\Task002_ArraySum.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\bin\Debug\net6.0\Task002_ArraySum.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\bin\Debug\net6.0\Task002_ArraySum.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\bin\Debug\net6.0\Task002_ArraySum.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\refint\Task002_ArraySum.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\Task002_ArraySum.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task002_ArraySum\obj\Debug\net6.0\ref\Task002_ArraySum.dll

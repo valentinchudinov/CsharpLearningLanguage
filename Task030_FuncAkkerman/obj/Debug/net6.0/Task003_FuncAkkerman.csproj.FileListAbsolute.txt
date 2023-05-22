@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\bin\Debug\net6.0\Task003_FuncAkkerman.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\bin\Debug\net6.0\Task003_FuncAkkerman.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\bin\Debug\net6.0\Task003_FuncAkkerman.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\bin\Debug\net6.0\Task003_FuncAkkerman.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\bin\Debug\net6.0\Task003_FuncAkkerman.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\refint\Task003_FuncAkkerman.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\Task003_FuncAkkerman.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork009\Tasks\Task003_FuncAkkerman\obj\Debug\net6.0\ref\Task003_FuncAkkerman.dll

@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\bin\Debug\net6.0\Task001_RandomArray.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\bin\Debug\net6.0\Task001_RandomArray.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\bin\Debug\net6.0\Task001_RandomArray.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\bin\Debug\net6.0\Task001_RandomArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\bin\Debug\net6.0\Task001_RandomArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\refint\Task001_RandomArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\Task001_RandomArray.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task001_RandomArray\obj\Debug\net6.0\ref\Task001_RandomArray.dll

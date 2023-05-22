@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\bin\Debug\net6.0\Task003_EvenAndOdd.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\bin\Debug\net6.0\Task003_EvenAndOdd.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\bin\Debug\net6.0\Task003_EvenAndOdd.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\bin\Debug\net6.0\Task003_EvenAndOdd.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\bin\Debug\net6.0\Task003_EvenAndOdd.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\refint\Task003_EvenAndOdd.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\Task003_EvenAndOdd.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task003_EvenAndOdd\obj\Debug\net6.0\ref\Task003_EvenAndOdd.dll

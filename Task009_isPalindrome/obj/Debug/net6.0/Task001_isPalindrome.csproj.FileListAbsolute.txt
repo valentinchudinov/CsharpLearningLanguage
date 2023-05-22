@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\bin\Debug\net6.0\Task001_isPalindrome.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\bin\Debug\net6.0\Task001_isPalindrome.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\bin\Debug\net6.0\Task001_isPalindrome.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\bin\Debug\net6.0\Task001_isPalindrome.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\bin\Debug\net6.0\Task001_isPalindrome.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\refint\Task001_isPalindrome.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\Task001_isPalindrome.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task001_isPalindrome\obj\Debug\net6.0\ref\Task001_isPalindrome.dll

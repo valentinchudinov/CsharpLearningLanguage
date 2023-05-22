@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\bin\Debug\net6.0\Task003_squareTable.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\bin\Debug\net6.0\Task003_squareTable.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\bin\Debug\net6.0\Task003_squareTable.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\bin\Debug\net6.0\Task003_squareTable.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\bin\Debug\net6.0\Task003_squareTable.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\refint\Task003_squareTable.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\Task003_squareTable.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork003\Tasks\Task003_squareTable\obj\Debug\net6.0\ref\Task003_squareTable.dll

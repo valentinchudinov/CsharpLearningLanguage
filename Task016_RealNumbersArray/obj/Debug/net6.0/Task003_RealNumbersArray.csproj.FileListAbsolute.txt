@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\bin\Debug\net6.0\Task003_RealNumbersArray.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\bin\Debug\net6.0\Task003_RealNumbersArray.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\bin\Debug\net6.0\Task003_RealNumbersArray.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\bin\Debug\net6.0\Task003_RealNumbersArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\bin\Debug\net6.0\Task003_RealNumbersArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\refint\Task003_RealNumbersArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\Task003_RealNumbersArray.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork005\Tasks\Task003_RealNumbersArray\obj\Debug\net6.0\ref\Task003_RealNumbersArray.dll

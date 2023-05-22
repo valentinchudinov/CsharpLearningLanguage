@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\bin\Debug\net6.0\Task002_MaxNumber.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\bin\Debug\net6.0\Task002_MaxNumber.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\bin\Debug\net6.0\Task002_MaxNumber.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\bin\Debug\net6.0\Task002_MaxNumber.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\bin\Debug\net6.0\Task002_MaxNumber.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\refint\Task002_MaxNumber.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\Task002_MaxNumber.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork001\Tasks\Task002_MaxNumber\obj\Debug\net6.0\ref\Task002_MaxNumber.dll

@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\bin\Debug\net6.0\Tsk003_CreateArray.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\bin\Debug\net6.0\Tsk003_CreateArray.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\bin\Debug\net6.0\Tsk003_CreateArray.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\bin\Debug\net6.0\Tsk003_CreateArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\bin\Debug\net6.0\Tsk003_CreateArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\refint\Tsk003_CreateArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\Tsk003_CreateArray.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork004\Tasks\Tsk003_CreateArray\obj\Debug\net6.0\ref\Tsk003_CreateArray.dll
